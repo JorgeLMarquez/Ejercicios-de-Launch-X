@@ -7,3 +7,4 @@
 4. Usar lógica booleana
 5. Cadenas
 6. Usar operaciones matemáticas
+7. Introducción a las listas
