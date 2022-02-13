@@ -8,3 +8,7 @@
 5. Cadenas
 6. Usar operaciones matemáticas
 7. Introducción a las listas
+8. Estructuras de control
+9. Administrar datos con diccionarios
+10. Funciones
+11. Manejo de errores
