@@ -1,5 +1,2 @@
 **Funciones**
 >	El siguiente paso después de usar el código de procedimiento es escribir software modular usando funciones. Las funciones, desde las simples hasta las de múltiples argumentos, son útiles para hacer que el código sea reutilizable.
-
-**Administrar datos con diccionarios**
->Los diccionarios de Python te permiten modelar datos complejos. Este módulo explora escenarios comunes en los que podrías usar diccionarios.
